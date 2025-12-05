@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Niladri21
-- 👀 I’m interested in ... Cyber Security and Data Engineering
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... App development
-- 📫 How to reach me ... Just Mail me on niladric006@gmail.com
+- 👋 Hi, I’m Randi Nigger
+- 👀 I’m interested in ... Getting fucked
+- 🌱 I’m currently learning ... Scratch
+- 💞️ I’m looking to collaborate on ... Poop development
+- 📫 How to reach me ... Just Mail me on (shayeeq@gmail.com)[niladric006@gmail.com]
 
 <!---
 Niladri21/Niladri21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
