@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Niladri21
 - 👀 I’m interested in ... Cyber Security and Data Engineering
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... C/C++
 - 💞️ I’m looking to collaborate on ... App development
 - 📫 How to reach me ... Just Mail me on niladric006@gmail.com
 
